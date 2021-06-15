@@ -11,7 +11,7 @@
 			</ul>
 		</td>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=zengming00&show_icons=true" />
+			<img width="450" src="https://github-readme-stats.vercel.app/api?username=zengming00&show_icons=true" />
 		</td>
 	</tr>
 </table>
